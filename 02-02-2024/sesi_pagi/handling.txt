@@ -1,0 +1,8 @@
+Nama: ani
+Ruang: ani
+skema: ani
+
+Hasil perhitungan desimal, oktal, biner, dan hexa dari huruf Ani adalah:
+Character 'A' - Decimal: 65, Binary: 0b1000001, Octal: 0o101, Hexadecimal: 0x41
+Character 'n' - Decimal: 110, Binary: 0b1101110, Octal: 0o156, Hexadecimal: 0x6e
+Character 'i' - Decimal: 105, Binary: 0b1101001, Octal: 0o151, Hexadecimal: 0x69
